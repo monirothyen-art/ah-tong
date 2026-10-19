@@ -1,0 +1,6 @@
+{
+  "name": "SecureVault - Social Media & Account Manager",
+  "description": "អាតុង (Atong) - ប្រព័ន្ធគ្រប់គ្រងគណនី Social Media និងគណនីឌីជីថលប្រកបដោយសុវត្ថិភាពខ្ពស់ រក្សាទុក Passwords, 2FA TOTP, Cookies, Session, Recovery Codes ជំនួសការកត់ត្រាលើក្រដាស",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
